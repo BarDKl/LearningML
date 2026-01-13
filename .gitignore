@@ -17,5 +17,5 @@ ENV/
 *.csv
 *.h5
 *.pth
-data/
+datasets/
 models/
