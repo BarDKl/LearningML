@@ -17,5 +17,5 @@ ENV/
 *.csv
 *.h5
 *.pth
-datasets/
+HandsOnML/datasets/housing/housing.tgz
 models/
